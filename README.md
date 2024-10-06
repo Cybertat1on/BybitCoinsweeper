@@ -3,6 +3,7 @@
 
 #  Bot for BybitCoinsweeper
 
+![start-coinsweep](https://github.com/user-attachments/assets/935f66e9-0af7-4ac6-a97a-d61439a89aa0)
 
 
 # 🔥🔥 PYTHON version must be 3.10 - 3.11.5 🔥🔥

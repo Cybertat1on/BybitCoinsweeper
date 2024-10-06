@@ -1,0 +1,2 @@
+# BybitCoinsweeper
+Bot for BybitCoinsweeper
